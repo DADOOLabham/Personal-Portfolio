@@ -1,0 +1,10 @@
+@import "../../../vars.css";
+
+.container{
+    padding: 20px;
+    margin-left: 100px;
+}
+.title{
+    font-size: 34px;
+    font-weight: bold;
+}
